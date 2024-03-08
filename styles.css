@@ -1,0 +1,21 @@
+body {
+  font-family: aerial;
+  background: #f06;
+  color: purple;
+  text-align: center;
+}
+h1 {
+  font-family: aerial;
+  font-size: 20px;
+  color: pink;
+  }
+h2 {
+  font-family: aerial;
+  font-size: 16;
+  color: lightgreen;
+}
+p {
+  font-family: aerial;
+  font-size: 16;
+  color: lightblue;
+}
